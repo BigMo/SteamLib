@@ -3,11 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TABGPatcher.VDF;
+using SteamLib.VDF;
 
-namespace TABGPatcher.Steam
+namespace SteamLib
 {
     public class SteamManager
     {
